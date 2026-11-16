@@ -1,3 +1,6 @@
+
+**ЦКП:** Готовые правила и инструменты для последовательной работы ИИ-агентов над разработкой; копия стороннего набора.
+
 <p align="center">
   <img src="assets/hero.png" alt="ECC - the agent harness operating system" width="100%" />
 </p>
